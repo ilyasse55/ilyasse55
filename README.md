@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ilyasse55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 💵 I want money ...
-<!---
-ilyasse55/ilyasse55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+while (client.needs_views == true) {
+    AJN.create_thumbnail(rate: "$25");
+    AJN.compile_art_poster(rate: "$40");
+    system.inject_neon_vibe();
+    viewport.boost_ctr(); 
+}
+// Discord: elyas867 // DM to Boot.
